@@ -9,4 +9,3 @@ function uniqueSorted(numbers) {
 const result = uniqueSorted(numbers);
 
 console.log(result);
-console.log(numbers);
